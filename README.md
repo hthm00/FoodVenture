@@ -5,7 +5,7 @@ We are bored and tired of traveling and ending up going to a chain/generic resta
 ## What it does
 It will allow users to view different countries, their cities, and what specialty food they offer and where to find these dishes.
 
-How we built it
+## How we built it
 Food Venture is made by a team that consists of a mixture of developers and designers. All members were able to get involved in designing, coding, as well as researching. For the Front-end, we use: Bootstraps framework. The website is construct with HTML, CSS, and Javascript
 
 ## Protoype
