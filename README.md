@@ -1,4 +1,6 @@
 # FoodVenture
+![foodventure_image](https://mhuynh.dev/assets/project_food-venture.jpg)
+
 ## Inspiration
 We are bored and tired of traveling and ending up going to a chain/generic restaurant to eat bland, boring, and inauthentic food.
 
